@@ -1,0 +1,13 @@
+.Header__Input {
+    /* width: 800px; */
+    display: flex;
+    padding: 20px 80px;
+    gap: 45px;
+    justify-content: right;
+    background: #1BA0AB;
+    color: #fff;
+    position: sticky;
+}
+.Header__Input:hover {
+    /* color: green; */
+}
